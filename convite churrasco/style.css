@@ -1,0 +1,50 @@
+/* (inicio)Codigo do Convite para o churrasco */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .card {
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 20px;
+    max-width: 400px;
+    text-align: center;
+  }
+
+  p {
+    margin: 5px 0;
+  }
+
+  input[type="text"],
+  input[type="tel"] {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    
+  }
+
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+  }
+
+/*  (fim)Codigo do Convite para o churrasco */
+
+/* (inicio)Codigo do formulario para o churrasco */
+  .obs {
+    font-size: smaller;
+    color: darkred;
+  }
+
+.title {
+  text-align: center;
+}
+
+/* (fim)Codigo do formulario para o churrasco */
